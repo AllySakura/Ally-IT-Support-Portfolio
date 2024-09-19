@@ -1,6 +1,6 @@
 #Ally Magika - 09/19/2024
 
-#This space is left intentionally blank
+#This code shows the sum of two variables, which prints out the sum of them.
 
 Twenty = 20
 Fifthteen = 15
