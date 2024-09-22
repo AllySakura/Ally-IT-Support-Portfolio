@@ -12,3 +12,4 @@ The table below displays the projects I've worked on.
 | [Binary to Decimal](/Excercises/BinarytoDecimal.pdf) | This PDF contains work of me converting Binary to Decimal in a spreadsheet. |
 | [Variable Python Code](Codes/sillytext.py) | This Python code is an example I created to add the sum of two variables and it's first Python code for my IT Portfolio. |
 | [Flower Class Example](/Excercises/AllyMagikaFlowerClass.pdf) | This this a class diagram for a flower with a rose inheritating the attributes of the flower class. |
+| [Flower.py](/Codes/Flower.py) | This code demostrate my ability to identify the functions of a code.

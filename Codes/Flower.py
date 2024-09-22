@@ -29,6 +29,6 @@ def main():  # Entry point of the program.
     flower3.grow()  #* Simulate the Lily of the Valley growing.
     flower3.bloom()  #* Simulate the Lily of the Valley blooming.
 
-# Execute the main function if the script is run directly.
-if __name__ == "__main__":
+
+if __name__ == "__main__":# Execute the main function if the script is run directly.
     main()  # Call the main function.
