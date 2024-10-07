@@ -16,3 +16,4 @@ The table below displays the projects I've worked on.
 | [My Portfolio Website GitHub](https://github.com/AllySakura/AllyWebsite) | This is my own personal portfolio website that I will show off my work and projects, maybe as well as work I've reviewed in classes |
 | [Script Talk - Basic Java script](https://github.com/AllySakura/ScriptTalk) | A simple basic script that you input your name and either y/n. |
 | [Network Diagram](Screenshots%2FNetworkDesign.png) | A network diagram I created, shows how things are connected. |
+| [SQLQuery Data Mining](Screenshots/SQLQuery.png) | This screenshot displays my ability to data mine a database. |
